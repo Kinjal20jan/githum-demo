@@ -1,8 +1,12 @@
+#Add
 def add(x,y):
-    pass
+    pass
+#Sub
 def subtract(x,y):
-    pass
+    pass
+#Mul
 def multiply(x,y):
-    pass
+    pass
+#Divide
 def divide(x,y):
     pass
